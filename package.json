@@ -1,0 +1,12 @@
+{
+  "name": "dnshe-tool",
+  "version": "1.0.0",
+  "description": "DNSHE API CLI",
+  "main": "dnshe-tool.js",
+  "bin": {
+    "dnshe-tool": "./dnshe-tool.js"
+  },
+  "dependencies": {
+    "commander": "^14.0.2"
+  }
+}
