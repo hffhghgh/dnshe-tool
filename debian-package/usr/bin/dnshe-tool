@@ -1,0 +1,2 @@
+#!/bin/sh
+exec node /usr/lib/dnshe-tool/dnshe-tool.js "$@"
